@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uskmt
-- 👀 I’m interested in fiar Living.
+- 👀 I’m interested in fair Living.
 - 🌱 I’m currently learning Github language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..through my email
